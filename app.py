@@ -1,6 +1,7 @@
 import imageio
 import os
 
+# Change the line above to your video of choice
 clip = os.path.abspath('hotWing.MP4')
 
 # Prints the location of the file
